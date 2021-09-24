@@ -9,6 +9,7 @@ namespace StarChart.Models
 {
     public class CelestialObject
     {
+        //created by tom on 9/24/21
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
